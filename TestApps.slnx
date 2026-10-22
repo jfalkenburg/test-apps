@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="BlazorWasmApp20261021/BlazorWasmApp20261021.csproj" Id="60cc4e95-8e8a-458d-9272-44df745eeaf6" />
   <Project Path="ConsoleApp20261021/ConsoleApp20261021.csproj" Id="997b81c9-3751-4478-806d-0c1dbc74eaa7" />
 </Solution>
